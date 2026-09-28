@@ -1,0 +1,20 @@
+.inputField {
+  display: flex;
+  flex-direction: column;
+}
+.under {
+  text-decoration: underline;
+}
+.inputSlider {
+  display: flex;
+  justify-content: space-between;
+}
+.inputFlexRow {
+  display: flex;
+  flex-direction: row;
+}
+
+.selected {
+  background-color: lightblue;
+
+}
